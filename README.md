@@ -13,8 +13,8 @@ Working with functions and pointers to functions
 ### complex-resistance directory
 #### Task
 Write a program for calculating the complex resistance of a given oscillating circuit depending on the current frequency. Options for oscillating contours are given below:
-![Oscillating contours](/images/complex-res1.png)
-![Oscillating contours](/images/complex-res2.png)
+![Oscillating contours 1](/images/complex-res1.png)
+![Oscillating contours 2](/images/complex-res2.png)
 #### Skills
 Working with structures
 ### work-with-files directory
